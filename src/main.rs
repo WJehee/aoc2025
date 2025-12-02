@@ -1,6 +1,6 @@
 mod day1;
 
 fn main() {
-    day1::solve("examples/day1.txt");
+    day1::solve("inputs/day1.txt", true);
 }
 
