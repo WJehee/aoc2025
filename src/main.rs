@@ -1,7 +1,8 @@
 mod day01;
 mod day02;
+mod day03;
 
 fn main() {
-    day02::solve("examples/day02.txt", false);
+    day03::solve("examples/day03.txt", false);
 }
 
